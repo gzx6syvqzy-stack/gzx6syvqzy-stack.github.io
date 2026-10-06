@@ -1,0 +1,39 @@
+Privacy Policy — last updated 5 October 2026
+
+This is a single-user software tool. It connects to the operator's email accounts so that they can be read, searched, organised and replied to through a single interface. It is not a commercial product, it has no other users, and it is not offered to the public.
+
+Who this policy covers
+The only person whose data this application accesses is its operator. There are no customers, no user accounts and no sign-up. If you have arrived at this page from a Google consent screen, you are the operator.
+
+What data the application accesses
+With the operator's explicit authorisation, the application accesses the mailboxes of the Google and Microsoft accounts the operator signs in with. Depending on the task, this includes:
+
+Message metadata — sender, recipients, subject, date, size, labels and folders
+Message contents, when a message is opened or replied to
+The list of labels and folders in the mailbox
+The application can also, at the operator's instruction, apply labels, move messages between folders, mark messages as read or unread, create and delete labels and folders, send and reply to messages, and move messages to trash.
+
+How data is stored
+The application holds no database and keeps no copy of any mailbox. Messages are fetched when needed and discarded afterwards. The only persistent data stored is the OAuth credential issued at sign-in, which is written to a local file on the machine running the application and is used solely to re-establish access to the mailbox the operator authorised.
+
+Sharing and transfer
+No data is sold, rented, shared with advertisers, or disclosed to any third party for any commercial purpose.
+
+The application uses a large language model to classify and summarise mail. Message content and metadata required for a given task are therefore transmitted to Anthropic's API for processing, and are handled under Anthropic's privacy policy. No other third party receives any data from this application.
+
+Google API Services User Data Policy
+This application's use and transfer of information received from Google APIs adheres to the Google API Services User Data Policy, including the Limited Use requirements.
+
+Retention and removal
+Stored credentials persist only until the operator revokes them or deletes the local credential file. Access can be withdrawn at any time at myaccount.google.com/permissions for Google accounts, or at myapps.microsoft.com for Microsoft accounts. Revoking access immediately and permanently ends the application's ability to reach the mailbox.
+
+Security
+Credentials are stored on machines controlled by the operator and are not committed to source control or shared. The application communicates with Google and Microsoft over encrypted connections only.
+
+Changes
+If this policy changes, the revised version will be published at this URL with an updated date.
+
+Contact
+Questions about this policy: gzx6syvqzy@privaterelay.appleid.com
+
+Back to homepage
